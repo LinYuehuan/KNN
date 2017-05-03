@@ -36,3 +36,7 @@ KNN
 *	归一化特征值`autoNorm`
 *	一个针对约会网站打测试代码分类器`datingClassTest`
 *	最后以一个手写识别系统代码`handwritingClassTest`
+
+>参考资料
+http://www.cnblogs.com/ybjourney/p/4702562.html
+《机器学习实战》第二章

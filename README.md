@@ -34,3 +34,6 @@
 	int main(void){
 		return 0;
 	}
+&emsp;&emsp;next is img:
+
+![This is a test img!](/img/1.jpg "test img")

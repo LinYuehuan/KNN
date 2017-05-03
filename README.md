@@ -36,4 +36,4 @@
 	}
 &emsp;&emsp;next is img:
 
-![This is a test img!](/img/1.jpg "test img")
+![This is a test img!](/img/2.jpg "test img")

@@ -30,13 +30,9 @@ KNN
 
 +	返回前K个点中出现频率最高的类别作为测试数据的预测分类。<br>
 
-&emsp;&emsp;next is code:
-
-	#include <stdio.h>
-
-	int main(void){
-		return 0;
-	}
-&emsp;&emsp;next is img:
-
-![This is a test img!](/img/2.jpg "test img")
+&emsp;&emsp;这是《机器学习实战》中的代码，其中包括了
+*	k近邻算法的实现`classify0`
+*	将文本转换为矩阵的模块`file2matrix`
+*	归一化特征值`autoNorm`
+*	一个针对约会网站打测试代码分类器`datingClassTest`
+*	最后以一个手写识别系统代码`handwritingClassTest`

@@ -26,3 +26,11 @@
 +	确定前K个点所在类别的出现频率；<br>
 
 +	返回前K个点中出现频率最高的类别作为测试数据的预测分类。<br>
+
+&emsp;&emsp;next is code:
+
+	#include <stdio.h>
+
+	int main(void){
+		return 0;
+	}

@@ -7,7 +7,7 @@
 
 &emsp;&emsp;下面通过一个简单的例子说明一下：如下图，绿色圆要被决定赋予哪个类，是红色三角形还是蓝色四方形？如果K=3，由于红色三角形所占比例为2/3，绿色圆将被赋予红色三角形那个类，如果K=5，由于蓝色四方形比例为3/5，因此绿色圆被赋予蓝色四方形类。<br>
 
-![](http://images0.cnblogs.com/blog2015/771535/201508/041623504236939.jpg)<br>
+<center>![](http://images0.cnblogs.com/blog2015/771535/201508/041623504236939.jpg)<br></center>
 
 &emsp;&emsp;由此也说明了KNN算法的结果很大程度取决于K的选择。<br>
 
@@ -36,4 +36,4 @@
 	}
 &emsp;&emsp;next is img:
 
-![This is a test img!](/img/2.jpg "test img")
+<center>![This is a test img!](/img/2.jpg "test img")<!center>
